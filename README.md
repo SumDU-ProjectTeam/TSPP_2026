@@ -1,2 +1,6 @@
-# TSPP_2026
-Files for collaborative work in the discipline "Software Development Technologies" 2026
+# Файли для дисципліни "Технології створення програмних продуктів" (ТСПП)
+| Потік студентів | Група |
+| :--- | :--- |
+| I | IT-81 |
+| II | ІН-81, ІН-82, КБ-81 |
+
